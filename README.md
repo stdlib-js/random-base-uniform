@@ -469,6 +469,13 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 -->
 
+[umd]: https://github.com/umdjs/umd
+[es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+[deno-url]: https://github.com/stdlib-js/random-base-uniform/tree/deno
+[umd-url]: https://github.com/stdlib-js/random-base-uniform/tree/umd
+[esm-url]: https://github.com/stdlib-js/random-base-uniform/tree/esm
+
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
 
