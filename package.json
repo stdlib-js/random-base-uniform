@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-uniform",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Uniformly distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
