@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-uniform",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Uniformly distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
@@ -49,6 +49,7 @@
     "@stdlib/random-base": "^0.0.x",
     "@stdlib/random-base-mt19937": "^0.0.x",
     "@stdlib/random-base-randu": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/types": "^0.0.x",
     "@stdlib/utils-constant-function": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.0.x",
