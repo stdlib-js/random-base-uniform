@@ -24,32 +24,30 @@ limitations under the License.
 
 > [Uniformly][uniform] distributed pseudorandom numbers.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/random-base-uniform
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
-To use in Observable,
-
 ```javascript
-uniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@umd/bundle.js' )
-```
-
-To include the bundle in a webpage,
-
-```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@umd/bundle.js"></script>
-```
-
-If no recognized module system is present, access bundle contents via the global scope:
-
-```html
-<script type="text/javascript">
-(function () {
-    window.uniform;
-})()
-</script>
+var uniform = require( '@stdlib/random-base-uniform' );
 ```
 
 #### uniform( a, b )
@@ -386,13 +384,8 @@ var o = rand.toJSON();
 
 <!-- eslint no-undef: "error" -->
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@umd/bundle.js"></script>
-<script type="text/javascript">
-(function () {
+```javascript
+var uniform = require( '@stdlib/random-base-uniform' );
 
 var seed;
 var rand;
@@ -419,11 +412,6 @@ rand = uniform.factory( 0.0, 1.0, {
 for ( i = 0; i < 100; i++ ) {
     console.log( rand() );
 }
-
-})()
-</script>
-</body>
-</html>
 ```
 
 </section>
@@ -510,18 +498,19 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [deno-url]: https://github.com/stdlib-js/random-base-uniform/tree/deno
 [umd-url]: https://github.com/stdlib-js/random-base-uniform/tree/umd
 [esm-url]: https://github.com/stdlib-js/random-base-uniform/tree/esm
+[branches-url]: https://github.com/stdlib-js/random-base-uniform/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-base-uniform/main/LICENSE
 
 [uniform]: https://en.wikipedia.org/wiki/Uniform_distribution_%28continuous%29
 
-[@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32/tree/umd
+[@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 <!-- <related-links> -->
 
-[@stdlib/random/base/discrete-uniform]: https://github.com/stdlib-js/random-base-discrete-uniform/tree/umd
+[@stdlib/random/base/discrete-uniform]: https://github.com/stdlib-js/random-base-discrete-uniform
 
-[@stdlib/random/base/randu]: https://github.com/stdlib-js/random-base-randu/tree/umd
+[@stdlib/random/base/randu]: https://github.com/stdlib-js/random-base-randu
 
 <!-- </related-links> -->
 
