@@ -49,7 +49,7 @@
     "@stdlib/random-base": "^0.0.6",
     "@stdlib/random-base-mt19937": "^0.0.6",
     "@stdlib/random-base-randu": "^0.0.8",
-    "@stdlib/string-format": "^0.0.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2",
     "@stdlib/types": "^0.0.14",
     "@stdlib/utils-constant-function": "^0.0.8",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.0.7",
