@@ -59,7 +59,7 @@
     "@stdlib/utils-noop": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/array-uint32": "^0.1.0",
+    "@stdlib/array-uint32": "^0.1.1",
     "@stdlib/assert-is-uint32array": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
     "@stdlib/constants-float64-eps": "^0.1.1",
