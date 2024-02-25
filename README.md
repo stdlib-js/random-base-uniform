@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
+import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@v0.2.1-esm/index.mjs';
 ```
 
 #### uniform( a, b )
@@ -391,7 +391,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
+import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@v0.2.1-esm/index.mjs';
 
 var seed;
 var rand;
