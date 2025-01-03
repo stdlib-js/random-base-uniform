@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8c7dff3`](https://github.com/stdlib-js/stdlib/commit/8c7dff311a96451ecf52d7a08e17fd03bdf4a300) - **refactor:** move variable declaration _(by Athan Reines)_
 -   [`b082d29`](https://github.com/stdlib-js/stdlib/commit/b082d299748392a05be50b43351af6ac0cb7d418) - **fix:** update include paths and reorder includes _(by Athan Reines)_
 -   [`8553770`](https://github.com/stdlib-js/stdlib/commit/85537708442675d6bc1bf5dad5aaf252cecb82ac) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
