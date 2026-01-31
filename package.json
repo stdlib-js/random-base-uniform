@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-uniform",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Uniformly distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
@@ -55,11 +55,12 @@
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-write-accessor": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/utils-library-manifest": "^0.2.3",
     "@stdlib/utils-noop": "^0.2.2",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/array-base-zeros": "^0.2.2",
     "@stdlib/array-uint32": "^0.2.2",
     "@stdlib/assert-is-uint32array": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
