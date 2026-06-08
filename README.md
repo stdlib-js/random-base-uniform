@@ -442,6 +442,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/uniform`][@stdlib/random/array/uniform]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a continuous uniform distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/uniform`][@stdlib/random/iter/uniform]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a continuous uniform distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/uniform`][@stdlib/random/streams/uniform]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a uniform distribution.</span>
+-   <span class="package-name">[`@stdlib/random-uniform`][@stdlib/random/uniform]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a continuous uniform distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/discrete-uniform`][@stdlib/random/base/discrete-uniform]</span><span class="delimiter">: </span><span class="description">discrete uniform distributed pseudorandom numbers.</span>
 -   <span class="package-name">[`@stdlib/random-base/randu`][@stdlib/random/base/randu]</span><span class="delimiter">: </span><span class="description">uniformly distributed pseudorandom numbers between 0 and 1.</span>
 
@@ -532,6 +533,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/uniform]: https://github.com/stdlib-js/random-iter-uniform
 
 [@stdlib/random/streams/uniform]: https://github.com/stdlib-js/random-streams-uniform
+
+[@stdlib/random/uniform]: https://github.com/stdlib-js/random-uniform
 
 [@stdlib/random/base/discrete-uniform]: https://github.com/stdlib-js/random-base-discrete-uniform
 
