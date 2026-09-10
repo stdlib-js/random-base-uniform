@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-16)
+## Unreleased (2026-09-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d083c3f`](https://github.com/stdlib-js/stdlib/commit/d083c3ff225ae0139f390869d1eb89c84951e013) - **bench:** bound seed growth in `random/base/*` factory benchmarks [(#15130)](https://github.com/stdlib-js/stdlib/pull/15130) _(by Philipp Burckhardt)_
 -   [`b603d47`](https://github.com/stdlib-js/stdlib/commit/b603d47b873c4c30fb25d3cb2368aafc21444d6b) - **test:** add missing closing brace in TypeScript test files [(#12718)](https://github.com/stdlib-js/stdlib/pull/12718) _(by Philipp Burckhardt)_
 -   [`59f762d`](https://github.com/stdlib-js/stdlib/commit/59f762d987010b201b6807850129fa5d9f99ee7e) - **docs:** update related packages sections [(#12685)](https://github.com/stdlib-js/stdlib/pull/12685) _(by stdlib-bot)_
 -   [`3f792d9`](https://github.com/stdlib-js/stdlib/commit/3f792d977d6941de561c97e5462fc957db0997ed) - **bench:** refactor to use string interpolation in `random/base` [(#11423)](https://github.com/stdlib-js/stdlib/pull/11423) _(by Karan Anand)_
